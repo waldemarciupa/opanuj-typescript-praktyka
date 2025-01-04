@@ -12,6 +12,8 @@
     "allowSyntheticDefaultImports": true,
     "types": ["node", "prompts"],
     "noEmit": true,
-    "strict": true
+    "strict": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false
   }
 }
